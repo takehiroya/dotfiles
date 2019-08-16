@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOT_FILES=(.bashrc .bash_profile .bash_history .zsh_history .zshrc .zsh_profile)
+DOT_FILES=(.bashrc .bash_profile .zshrc .zsh_profile)
 
 for file in ${DOT_FILES[@]}
 do
